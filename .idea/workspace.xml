@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1adf3b5-82a0-4bbf-8895-54dbe8d8bf9d" name="Default Changelist" comment="About WEEK - 1" />
+    <list default="true" id="d1adf3b5-82a0-4bbf-8895-54dbe8d8bf9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Week 1/WEEK_1 CONTEST/No More Max and Min problem.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,17 +65,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 1/runnerup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="330">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week 1/Lists.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+              <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 1/WEEK_1 CONTEST/Rangoli.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="654">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week 1/WEEK_1 CONTEST/No More Max and Min problem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -103,6 +123,8 @@
         <option value="$PROJECT_DIR$/Week 2/fsd.py" />
         <option value="$PROJECT_DIR$/Week 1/Lists.py" />
         <option value="$PROJECT_DIR$/Week 1/About_Week_1.txt" />
+        <option value="$PROJECT_DIR$/Week 1/WEEK_1 CONTEST/Rangoli.py" />
+        <option value="$PROJECT_DIR$/Week 1/WEEK_1 CONTEST/No More Max and Min problem.py" />
       </list>
     </option>
   </component>
@@ -120,6 +142,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,11 +155,16 @@
               <item name="ML Assignments" type="462c0819:PsiDirectoryNode" />
               <item name="Week 1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ML Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ML Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 1" type="462c0819:PsiDirectoryNode" />
+              <item name="WEEK_1 CONTEST" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588316042022</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="WEEK_1 Contest :&#10;question - 1: Rangoli">
+      <created>1588416781247</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588416781247</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -379,9 +414,12 @@
     <MESSAGE value="Finding the second best/ runner up" />
     <MESSAGE value="Lists Problem" />
     <MESSAGE value="About WEEK - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="About WEEK - 1" />
+    <MESSAGE value="WEEK_1 Contest :&#10;question - 1: Rangoli" />
+    <option name="LAST_COMMIT_MESSAGE" value="WEEK_1 Contest :&#10;question - 1: Rangoli" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Week 2/fsd.py" />
+    <entry file="file://$PROJECT_DIR$/Week 1/About_Week_1.txt" />
     <entry file="file://$PROJECT_DIR$/Week 1/if-else.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -422,25 +460,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 1/runnerup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="330">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/fsd.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/About_Week_1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 1/Lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/WEEK_1 CONTEST/Rangoli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/WEEK_1 CONTEST/No More Max and Min problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
